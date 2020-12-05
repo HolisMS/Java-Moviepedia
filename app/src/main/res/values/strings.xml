@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Movies4</string>
+    <string name="movies_name">Movies Catalogue</string>
+
+    <string name="movie">Movie</string>
+    <string name="tvshow">Tv Show</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="favorite_tvshow">Favorite Tv Show</string>
+    <string name="change_language">Change language settings</string>
+    <string name="title_network_alert">Network Error</string>
+    <string name="message_network_alert">Make sure you are connected to Internet</string>
+
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+
+    <string name="movie_user_rating">TMDb: %1$s/10</string>
+
+    <string name="date">date</string>
+    <string name="overview">overview</string>
+    <string name="back_press">Tap again to exit</string>
+    <string name="other">Other</string>
+    <string name="favorite">Favorite</string>
+    <string name="remove_favorite">Remove Favorite</string>
+    <string name="massage_delete">Remove movie from list</string>
+    <string name="delete_success">Delete movie success</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="reminder">Reminder</string>
+    <string name="release_reminder_message">movie release today in TMDB!</string>
+    <string name="daily_reminer_message">see best movie and tvshow today!</string>
+    <string name="daily_reminder_desc">Reminder for return to app</string>
+    <string name="release_reminder_desc">Reminder showing the movie that released today</string>
+    <string name="release_reminder">Release Reminder</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="reminder_setting">Reminder Setting</string>
+
+
+    <string name="search_hint">Search…</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_tvshow">Search Tv Show</string>
+    <string name="search_hint_result">Match %1s movies with query %2s</string>
+
+    <string name="appwidget_text">Favorite</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">NO DATA</string>
+
+    <string name="todo">TODO</string>
+
+
+</resources>

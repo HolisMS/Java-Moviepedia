@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/menu_fav_movie"
+        android:icon="@drawable/ic_favorite_black_32dp"
+        android:title="@string/favorite_movie" />
+    <item
+        android:id="@+id/menu_fav_tvshow"
+        android:icon="@drawable/ic_favorite_black_32dp"
+        android:title="@string/favorite_tvshow" />
+
+
+    <!--<item android:title="@string/other">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/menu_logout"-->
+                <!--android:icon="@drawable/ic_error_outline_black_24dp"-->
+                <!--android:title="@string/logout" />-->
+        <!--</menu>-->
+
+    <!--</item>-->
+
+</menu>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Movies4</string>
+    <string name="movies_name">Movies Catalogue</string>
+
+    <string name="movie">Film</string>
+    <string name="tvshow">Tv Series</string>
+    <string name="home">Halaman Utama</string>
+    <string name="logout">Keluar</string>
+    <string name="favorite_movie">Favorit Film</string>
+    <string name="favorite_tvshow">Favorit Tv Series</string>
+    <string name="change_language">Ganti Pengaturan Bahasa</string>
+    <string name="title_network_alert">Gangguan Jaringan</string>
+    <string name="message_network_alert">Pastikan Koneksi Internet Terhubung</string>
+
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+
+    <string name="movie_user_rating">TMDb: %1$s/10</string>
+
+    <string name="date">date</string>
+    <string name="overview">overview</string>
+    <string name="back_press">Ketuk Sekali Lagi Untuk Keluar</string>
+    <string name="other">Other</string>
+    <string name="favorite">Favorit</string>
+    <string name="remove_favorite">Hapus Favorit</string>
+    <string name="massage_delete">Hapus film dari list</string>
+    <string name="delete_success">Hapus film berhasil</string>
+    <string name="yes">YA</string>
+    <string name="no">TIDAK</string>
+
+    <string name="reminder">Pengingat</string>
+    <string name="release_reminder_message">film baru rilis di TMDB hari ini!</string>
+    <string name="daily_reminer_message">lihat film dan serial tv terpopuler hari ini!</string>
+    <string name="daily_reminder_desc">Pengingat untuk kembali ke aplikasi</string>
+    <string name="release_reminder_desc">Pengingat menunjukkan film yang dirilis hari ini</string>
+    <string name="release_reminder">Pengingat Rilis</string>
+    <string name="daily_reminder">Pengingat Harian</string>
+    <string name="reminder_setting">Pengaturan Pengingat</string>
+
+    <string name="search_hint">Cari…</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="search_tvshow">Cari Tv Series</string>
+    <string name="search_hint_result">Match %1s movies with query %2s</string>
+
+    <string name="appwidget_text">Favorite</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">NO DATA</string>
+
+    <string name="todo">TODO</string>
+
+
+</resources>
